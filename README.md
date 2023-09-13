@@ -6,6 +6,15 @@ DomInscpect: A small script to make Dom based vulnerability detection easier bas
 cat urls.txt | ./dominspect
 ```
 
+### Installation
+
+```bash
+git clone https://github.com/0xdln1/dominspect.git
+cd dominspect
+go build
+mv dominspect /usr/local/bin
+```
+
 ### Command line flags:
 
 ```
