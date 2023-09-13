@@ -1,0 +1,6 @@
+[
+    {
+        "key": "XSS",
+        "value": "<script>alert()</script>"
+    }
+]
